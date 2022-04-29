@@ -5,7 +5,7 @@
 [![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jbcurrie)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jbcurrie)
 
-I'm a developer from Tauranga, New Zealand 🥝 🇳🇿 I want to build beautiful apps for the world to enjoy. User experience comes first ☝️
+I'm a developer from Tauranga, New Zealand 🥝 ![New Zealand flg](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/NZ.png) I want to build beautiful apps for the world to enjoy. User experience comes first ☝️
 
 ## What I'm coding with at the moment
 
