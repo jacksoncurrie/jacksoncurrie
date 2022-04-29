@@ -5,7 +5,7 @@
 [![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jbcurrie)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jbcurrie)
 
-I'm a developer from Tauranga, New Zealand 🥝 <img src="https://raw.githubusercontent.com/GlobalArtInc/round-flags/f4e76fcbb2d383beefedf5a3c44ee3af85ea31b1/flags/nz.svg" alt="New Zealand flag" width="12"/> I want to build beautiful apps for the world to enjoy. User experience comes first ☝️
+I'm a developer from Tauranga, New Zealand 🥝 <img src="https://raw.githubusercontent.com/GlobalArtInc/round-flags/f4e76fcbb2d383beefedf5a3c44ee3af85ea31b1/flags/nz.svg" alt="New Zealand flag" width="16"/> I want to build beautiful apps for the world to enjoy. User experience comes first ☝️
 
 ## What I'm coding with at the moment
 
