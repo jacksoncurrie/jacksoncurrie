@@ -1,3 +1,14 @@
-# Hi there, I'm Jackson 👋
+# Hi there, I’m Jackson 👋
 
-I’m a Software Engineer from Tauranga, New Zealand 🇳🇿 who loves building cool things, solving tricky problems, and exploring fresh ideas. If time allows, I’m always up for collaborating on interesting projects—feel free to reach out or check out my work below.
+From Tauranga, New Zealand 🇳🇿, I’m a product-focused software engineer working across mobile 📱, web 💻, cloud ☁️, and data 📊. Happy to contribute to open source and connect with the developer community.
+
+---
+
+## What I’m working on
+
+* **Edenic** — [edenic.io](https://edenic.io) — Bluelab’s cloud-based platform for monitoring, controlling, and optimising hydroponic systems in real time.
+* **Fishily** — [fishilyapp.com](https://fishilyapp.com) — Connecting boat owners and crew to get out fishing more often.
+
+---
+
+Let’s chat! Find me on [LinkedIn](https://linkedin.com/in/jbcurrie) or reach out via email.
