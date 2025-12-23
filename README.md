@@ -6,7 +6,6 @@ From Tauranga, New Zealand 🇳🇿, I’m a product-focused software engineer w
 
 ## What I’m working on
 
-* **Edenic** — [edenic.io](https://edenic.io) — Bluelab’s cloud-based platform for monitoring, controlling, and optimising hydroponic systems in real time.
 * **Fishily** — [fishilyapp.com](https://fishilyapp.com) — Connecting boat owners and crew to get out fishing more often.
 
 ---
