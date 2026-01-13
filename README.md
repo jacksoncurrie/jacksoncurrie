@@ -1,13 +1,9 @@
-# Hi there, I’m Jackson 👋
+# Hi, I’m Jackson 👋
 
-From Tauranga, New Zealand 🇳🇿, I’m a product-focused software engineer working across mobile 📱, web 💻, cloud ☁️, and data 📊. Happy to contribute to open source and connect with the developer community.
+Product-focused software engineer from Tauranga, NZ 🇳🇿, now in Toronto, ON 🇨🇦.  
+I build polished mobile + web experiences backed by reliable cloud systems.
 
----
+Currently building **Fishily** — a fishing app that helps boat owners and crew connect, plan trips, and get out on the water more often: <https://fishilyapp.com>  
+I’m active in the tech/startup space and always happy to connect with other builders.
 
-## What I’m working on
-
-* **Fishily** — [fishilyapp.com](https://fishilyapp.com) — Connecting boat owners and crew to get out fishing more often.
-
----
-
-Let’s chat! Find me on [LinkedIn](https://linkedin.com/in/jbcurrie) or reach out via email.
+LinkedIn: https://linkedin.com/in/jbcurrie • Email: <jackson@currie.page>
