@@ -8,5 +8,7 @@ Working on open source projects as well — check out my pinned ones to see what
 
 I’m active in the tech/startup space and always happy to connect with other builders.
 
-LinkedIn: <https://linkedin.com/in/jbcurrie>  
-Email: <jackson@currie.page>
+Reach out:
+
+- LinkedIn: <https://linkedin.com/in/jbcurrie>
+- Email: <jackson@currie.page>
